@@ -1,2 +1,3 @@
-# cryptozombies
-Learn crypto by invoke zombies
+# CryptoZombies
+
+Learn Solidity crypto by invoke zombies
